@@ -39,11 +39,13 @@ router.render = (req, res) => {
       pagination: {
         _page: Number.parseInt(queryParams._page),
         _limit: Number.parseInt(queryParams._limit),
-        _total: Number.parseInt(totalCountHeader)
+        _total: Number.parseInt(totalCountHeader),
       },
     };
-    res.jsonp(result);
+    return res.jsonp(result);
   }
+
+  return res.jsonp(res.locals.data);
 };
 
 // Use default router

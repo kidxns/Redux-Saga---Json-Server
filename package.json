@@ -8,6 +8,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "json-server": "^0.17.1",
+    "nodemon": "^2.0.20",
     "query-string": "^7.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -15,7 +16,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "node src/core/seeder.js && node src/core/server.js"
+    "start": "nodemon src/core/server.js && node src/core/seeder.js"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+
+    
   }
 }
