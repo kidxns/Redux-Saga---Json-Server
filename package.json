@@ -15,7 +15,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "node src/core/seeder.js && nodemon src/core/server.js"
+    "start": "node src/core/seeder.js && node src/core/server.js"
   },
   "eslintConfig": {
     "extends": [
