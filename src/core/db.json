@@ -1,0 +1,223 @@
+{
+  "categories": [
+    {
+      "id": "d8b338ed-0133-466d-83ea-ee9b93edfcbf",
+      "name": "Health",
+      "createAt": 1669193871891
+    },
+    {
+      "id": "c4e2393e-7282-4752-b076-d3583336b168",
+      "name": "Sports",
+      "createAt": 1669193871891
+    },
+    {
+      "id": "55263e7d-271b-4e1a-822e-36bad394b44e",
+      "name": "Tools",
+      "createAt": 1669193871891
+    },
+    {
+      "id": "14afa49c-77bc-45d5-a1ef-02e478dfd20a",
+      "name": "Grocery",
+      "createAt": 1669193871891
+    },
+    {
+      "id": "9195f374-42b7-4d31-bb5e-d471e3737a8d",
+      "name": "Grocery",
+      "createAt": 1669193871892
+    }
+  ],
+  "products": [
+    {
+      "id": "0deeb183-2e91-425a-ae7c-0bdad8403d0e",
+      "name": "Towels",
+      "color": "silver",
+      "price": "628.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "4e42c37d-fa4d-45dc-adf3-fc7cfae423c9",
+      "name": "Car",
+      "color": "violet",
+      "price": "146.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "c8ad4598-7953-4b55-a4b6-da602bf66110",
+      "name": "Chair",
+      "color": "yellow",
+      "price": "595.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "1e57d646-7612-4ec2-bd83-7caa9ebaefce",
+      "name": "Salad",
+      "color": "azure",
+      "price": "847.00",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "6c014ae8-02f1-4051-b864-a8e40c0c8cff",
+      "name": "Bike",
+      "color": "sky blue",
+      "price": "814.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "818843c7-23ee-45d0-a68d-b995c4f5ac6f",
+      "name": "Sausages",
+      "color": "blue",
+      "price": "329.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "849a7bae-e04f-4c47-be3a-6c081ceec4db",
+      "name": "Bike",
+      "color": "red",
+      "price": "885.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "7a7ff73d-2805-4c88-a18e-ff9adc3811e2",
+      "name": "Ball",
+      "color": "green",
+      "price": "624.00",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "34d6dbe5-90d1-44e7-966f-963078dc7c28",
+      "name": "Chair",
+      "color": "orange",
+      "price": "741.00",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "c9d27539-8b11-43f1-978c-847e771d15d6",
+      "name": "Soap",
+      "color": "orange",
+      "price": "804.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "6ebe91ae-f502-4b70-88f0-2256628acf59",
+      "name": "Cheese",
+      "color": "cyan",
+      "price": "917.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "7f15ec05-8279-4ef9-ac20-609750fdc851",
+      "name": "Chicken",
+      "color": "orange",
+      "price": "735.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "ab227021-9977-4ded-aa6c-1b4db2a708fb",
+      "name": "Chair",
+      "color": "turquoise",
+      "price": "179.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "ccbcf40c-20e0-490c-8edb-0a301cee53ab",
+      "name": "Gloves",
+      "color": "mint green",
+      "price": "610.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "922d1865-f5bb-44a0-b235-ab5204221c8a",
+      "name": "Salad",
+      "color": "grey",
+      "price": "319.00",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "8816d049-e968-4665-9232-3df10708987f",
+      "name": "Chicken",
+      "color": "plum",
+      "price": "345.00",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "79295678-8fbb-4547-ba0c-26067f167447",
+      "name": "Shirt",
+      "color": "sky blue",
+      "price": "772.00",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "0f5c48aa-4bdb-4096-a459-bd496ad6c5fb",
+      "name": "Keyboard",
+      "color": "grey",
+      "price": "94.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "34d6e470-0bcc-4faa-b1ae-998fb7f3373d",
+      "name": "Pants",
+      "color": "orchid",
+      "price": "547.00",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "id": "cf8c9fe7-41dd-476e-9577-4cf6a6062e75",
+      "name": "Bike",
+      "color": "olive",
+      "price": "600.00",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createAt": 1669193871892
+    },
+    {
+      "name": "Auss",
+      "color": "red",
+      "price": "699.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "thumbUrl": "https://loremflickr.com/640/480",
+      "createdAt": 1669213092102,
+      "id": "WPmVXiD"
+    }
+  ],
+  "profile": {
+    "name": "Thanh dep zai"
+  }
+}

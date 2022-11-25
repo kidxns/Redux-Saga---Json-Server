@@ -1,0 +1,56 @@
+@baseUrl = http://localhost:6969/api
+@sourceName = products
+# All
+GET  {{baseUrl}}/{{sourceName}}
+
+###
+
+# @name Filter
+GET  {{baseUrl}}/{{sourceName}}?color=yellow
+
+###
+
+# @name Sort
+GET  {{baseUrl}}/{{sourceName}}?_sort=price&_order=desc
+
+###
+
+# @name pagination
+GET  {{baseUrl}}/{{sourceName}}?_page=1&_limit=5
+
+
+###
+
+# @name Insert
+POST {{baseUrl}}/{{sourceName}}
+Content-Type: application/json
+
+{
+    "name": "Auss",
+    "color": "red",
+    "price": "699.00",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "thumbUrl": "https://loremflickr.com/640/480"
+}
+
+###
+
+# @name Update
+PUT {{baseUrl}}/{{sourceName}}/id
+{
+    "name": "Auss",
+    "color": "red",
+    "price": "699.00",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "thumbUrl": "https://loremflickr.com/640/480"
+}
+
+
+###
+
+# @name Delete
+
+DELETE {{baseUrl}}/{{sourceName}}/id
+
+
+
